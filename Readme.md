@@ -124,7 +124,7 @@ Create an instance of the `ColorBlenderService` and use it blend your colors.<br
 The result of the blending will be returned as an Object of a `Uniform Color` type, that can be further represented as any color type you want. See the example bellow.
 
  <div align="center">
- <img src="https://raw.githubusercontent.com/DigitalE4rth/ColorBlender/master/Art/Example.jpg" alt="Example"/>
+ <img src="https://raw.githubusercontent.com/DigitalE4rth/ColorBlender/main/Art/Example.jpg" alt="Example"/>
  </div>
 
 ### Usage
